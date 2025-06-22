@@ -24,7 +24,7 @@ graph TD;
         D4["<b>D4: Intersubjective</b><br/>(Language, logic, theories, norms)"]
     end
 
-    subgraph "The Process of Objectification (The 'How')"
+    subgraph "The Process of Objectification<br/>(The 'How')"
         direction LR
         P["<b>The Process</b><br/>A human activity of:<br/>- Formulating claims<br/>- Applying logical/formal tools<br/>- Public scrutiny & debate<br/>- Consensus-building"]
     end
@@ -36,16 +36,10 @@ graph TD;
     D1 -- "Physical Evidence" --> P
     D2 -- "Biological Evidence" --> P
     D3 -- "Experiential Evidence" --> P
-    D4 -- "Abstract Evidence (e.g. a formal system)" --> P
+    D4 -- "Abstract Evidence<br/>(e.g. a formal system)" --> P
     D4 -- "Provides Tools<br/>(Logic, Language)" --> P
     
     P --> |"Objective Knowledge"| K[Knowledge Claim]
-    
-    style D1 fill:#cde,stroke:#333
-    style D2 fill:#bfa,stroke:#333
-    style D3 fill:#fdb,stroke:#333
-    style D4 fill:#f9f,stroke:#333
-    style P fill:#FFEBCD,stroke:#333
 ```
 
 By separating the "what" (the domains) from the "how" (the process), this framework provides an elegant map of knowledge. It honors the unique textures of reality—from atoms to consciousness to logic—while clarifying the shared, rigorous process by which we come to understand them. 
