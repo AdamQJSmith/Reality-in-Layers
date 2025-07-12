@@ -37,14 +37,26 @@ graph TD;
     end
 
     L1 -- "Is Foundational To" --> L2
-    L2 -- "Enables & Constrains (via sensory mechanisms)" --> L3
+    L2 -- "Enables/Constrains via Sensory Mechanisms → Gives Rise to Subjective Experience" --> L3
     L3 -- "Articulates into (contingent on reduction; currently distinct)" --> L4
     
-    L1 -- "Physical Evidence" --> P
-    L2 -- "Sensory/Biological Evidence" --> P
-    L3 -- "Experiential Evidence" --> P
-    L4 -- "Abstract Evidence<br/>(e.g. a formal system)" --> P
+    L1 -- "Physical/Empirical Evidence" --> P
+    L2 -- "Sensory/Biological Information" --> P
+    L3 -- "Conscious Experiences" --> P
+    L4 -- "Knowledge Constructs<br/>(e.g. theories, norms)" --> P
     L4 -- "Provides Tools<br/>(Logic, Language)" --> P
     
     P --> |"Produces Artifacts"| L4
     P --> |"Objective Knowledge"| K[Knowledge Claim]
+
+```
+
+### Layer Descriptions (Synced from Second Draft)
+
+*   **Layer 1: Physical (L1):** The bedrock of mind-independent matter, energy, and physical law. This is the layer of mountains, moles, and molecules. It is the foundation for all other layers.
+*   **Layer 2: Biological (L2):** Arising from the physical, this is the layer of living systems. We study this layer differently than the physical, observing how organisms function. Critically, a key aspect of this layer is that it contains the biological faculties—sensory mechanisms, neural networks—that **enable, constrain, and determine** the potential for consciousness.
+*   **Layer 3: Experience (L3):** The first-person reality of subjective conscious experience—the "what it's like" quality of seeing red, feeling joy, or perceiving a flowing river. This layer is profoundly shaped by the biological; a beetle, a bull, and a human experience the same physical river in vastly different ways because their biological makeup (L2) acts as a unique filter. While we can connect reports to biological activity, a part of this experience remains, at present, irreducible (contingent on future scientific reduction; currently treated as distinct for evidential purposes).
+*   **Layer 4: Constructs (L4):** The shared reality of intersubjective constructs that allow us to articulate and structure our thoughts through consensus formation and social constructions. This is where language, logic, mathematics, theories, and cultural norms exist.
+
+### Note on Scope of Sensory Mechanisms
+Sensory mechanisms in Layer 2 are tied to biological living systems. While non-biological analogs (e.g., robot sensors) may mimic aspects of sensory input and are often modeled on biological processes, current evidence suggests they are fully reducible to Layer 1 (e.g., metal, chips, electronic signals). There is no need to extend Layer 2 to such systems, as Layer 1 provides sufficient explanatory power without miscategorization. If future developments show non-biological systems giving rise to genuine consciousness-like phenomena, this could be reevaluated.
