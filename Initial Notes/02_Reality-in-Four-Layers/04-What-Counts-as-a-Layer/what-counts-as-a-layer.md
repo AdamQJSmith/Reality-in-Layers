@@ -40,3 +40,9 @@ Layer 4 is where raw readings, neural traces, and lived experiences become *cl
 Dependence is asymmetric: each higher layer needs the one below for its existence, yet cannot be fully reduced to it. At the same time feedback is real. Layer 4 theories spawn microscopes that extend Layer 2 perception and particle accelerators that reshape Layer 1 matter. Layer 3 intentions move Layer 2 muscles, which shift Layer 1 objects. Recognising both direction arrows avoids the twin errors of pure reductionism and pure constructivism.
 
 With the layers defined, we can now examine how different fields of study combine these evidence handles on their way through the single validation gate. 
+
+### Evolution Note (Added [Current Date])
+Further thoughts on layer criteria:
+- Layers remain distinct based on non-reducibility (e.g., Layer 3's qualia not fully captured by Layer 2's codes), but this is pragmatic and contingent—full reduction of consciousness to biology could collapse them.
+- Reinforce that Layer 2's sensory codes are biological; extending to non-biological systems isn't supported yet, keeping explanatory power in Layer 1.
+- This aligns with asymmetric dependence while avoiding dualism through causal grounding in lower layers. 

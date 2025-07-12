@@ -66,3 +66,9 @@ Got it—the figure has to *earn its space* by adding a genuinely new piece of i
                     │  particles • fields • forces           │
                     └───────────────────────────────────────┘
 ``` 
+
+### Evolution Note (Added [Current Date])
+Building on the layer definitions and dependence relations here:
+- The distinction between Layer 2 (living/biological, including sensory mechanisms) and Layer 3 (subjective experience) should remain until consciousness is fully reducible to biology. Layer 2's sensory mechanisms enable, constrain, and determine the nature of Layer 3 experiences, but the focus is on practical evidence handles for objectivity in Layer 4, not on resolving emergence mechanisms.
+- This avoids dualism by grounding Layer 3 causally in Layer 2's biology, with no evidence for consciousness persisting independently or arising elsewhere.
+- Future updates could note that this distinction is contingent on scientific progress; if reduction occurs, Layers 2 and 3 might merge for evidential purposes. 

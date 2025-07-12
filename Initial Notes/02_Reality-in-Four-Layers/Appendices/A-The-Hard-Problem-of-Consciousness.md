@@ -16,3 +16,9 @@ David Chalmers coined "the hard problem" to mark the explanatory gap between **f
 3. **Neuro‑phenomenology** – combine EEG with disciplined first‑person reports; promising but labor‑intensive and culturally sensitive.
 
 Until one of these routes wins the Layer 4 contest, the framework remains agnostic: L3 is treated as a real but currently irreducible box. 
+
+### Evolution Note (Added [Current Date])
+Building on the appendix's treatment of the hard problem:
+- Maintain agnosticism but note that irreducibility is not permanent; if Layer 4 tests (e.g., predictive qualia from L2 patterns) succeed, reduction could occur, merging layers.
+- Clarify scope: The gap applies to biological systems; non-biological ones (e.g., AI) don't bridge to L3 without evidence of genuine experience, remaining reducible to L1.
+- This keeps the framework practical for objectivity without endorsing dualism—L3 depends on L2 biology. 

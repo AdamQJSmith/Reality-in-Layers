@@ -40,3 +40,9 @@ This feedback doesn't eliminate the fundamental dependencies between layers. Hig
 The Subjective Stream depends on both the Physical Foundation and the Perceptual Filter. Without a physical brain and perceptual processing, there would be no conscious experiences. But the Subjective Stream also introduces novel properties—qualitativeness, first-personality, unity, temporality—that cannot be fully captured in terms of physical or perceptual processes alone.
 
 In turn, a Subjective Stream serves as the foundation for Epistemic Constructs. Our concepts, theories, and frameworks are built on and informed by our conscious experiences. But again, Epistemic Constructs introduce novel properties and relations not reducible to conscious experiences alone. 
+
+### Evolution Note (Added [Current Date])
+Refining the discussion of Layer 3 and its relation to Layer 2:
+- While acknowledging the hard problem and current irreducibility, emphasize that Layer 3 emerges from Layer 2's biological/sensory phenomena, avoiding dualism—consciousness is caused by and dependent on biology, with no reason to believe it survives biological destruction.
+- Scope of sensory mechanisms in Layer 2 is limited to biological living systems; non-biological analogs (e.g., robot sensors) are reducible to Layer 1 and don't warrant extension unless evidence shows they give rise to genuine consciousness.
+- The framework's agnosticism allows for potential future reduction, keeping Layers 2 and 3 distinct for now to highlight unique ways of objectivizing experiential evidence. 

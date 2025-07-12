@@ -26,7 +26,7 @@ The framework shows why fields use different methods and how objectivity works a
 graph TD;
     subgraph "The Four Layers of Reality"
         L1["L1: Physical<br/>(Matter, energy, physical law)"]
-        L2["L2: Biological<br/>(Living systems, senses, neural infrastructure)"]
+        L2["L2: Biological<br/>(Living systems, sensory mechanisms, neural infrastructure)"]
         L3["L3: Experience<br/>(Subjective, conscious experience)"]
         L4["L4: Constructs<br/>(Intersubjective realm of consensus-built knowledge and tools (language, logic, theories, norms))"]
     end
@@ -37,15 +37,14 @@ graph TD;
     end
 
     L1 -- "Is Foundational To" --> L2
-    L2 -- "Enables & Constrains" --> L3
-    L3 -- "Articulates into" --> L4
+    L2 -- "Enables & Constrains (via sensory mechanisms)" --> L3
+    L3 -- "Articulates into (contingent on reduction; currently distinct)" --> L4
     
     L1 -- "Physical Evidence" --> P
-    L2 -- "Sensory Evidence" --> P
+    L2 -- "Sensory/Biological Evidence" --> P
     L3 -- "Experiential Evidence" --> P
     L4 -- "Abstract Evidence<br/>(e.g. a formal system)" --> P
     L4 -- "Provides Tools<br/>(Logic, Language)" --> P
     
     P --> |"Produces Artifacts"| L4
     P --> |"Objective Knowledge"| K[Knowledge Claim]
-```

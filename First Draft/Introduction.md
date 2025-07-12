@@ -43,3 +43,9 @@ graph TD;
 ```
 
 By separating the "what" (the domains) from the "how" (the process), this framework provides an elegant map of knowledge. It honors the unique textures of reality—from atoms to consciousness to logic—while clarifying the shared, rigorous process by which we come to understand them. 
+
+### Evolution Note (Added [Current Date])
+Evolving from this first draft's domain structure:
+- Refine Domain 2 (Biological) to highlight sensory mechanisms as enabling/constraining consciousness in Domain 3 (Subjective), with current irreducibility treated as contingent on future reduction.
+- Add clarity on scope: Non-biological systems (e.g., AI) remain in Domain 1 unless they demonstrate living-like properties leading to experience.
+- This preserves the framework's focus on objectification processes while tracking theoretical growth toward potential layer collapses. 

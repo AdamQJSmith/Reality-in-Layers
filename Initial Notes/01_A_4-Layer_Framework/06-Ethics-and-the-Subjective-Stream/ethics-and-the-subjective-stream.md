@@ -30,3 +30,9 @@ Physics establishes objectivity through correspondence with Layer 1, accessed th
 Ethics establishes objectivity through coherence, comprehensiveness, and reflective stability in addressing normative questions that arise from Layer 3. When ethicists develop theories of justice, they're creating Layer 4 constructs that systematize normative intuitions from Layer 3.
 
 In both cases, the framework, arguments, and methodologies exist in Layer 4. The differences lie in which other layers they reference and how they validate their claims. This perspective helps us understand why different disciplines use different methods without requiring us to rank them hierarchically. 
+
+### Evolution Note (Added [Current Date])
+Refining the ethics discussion:
+- Ethics' grounding in Layer 3 (e.g., suffering) remains irreducible to Layer 2 biology for now, but contingent on future reduction—yet the category's value persists for objectivizing subjective evidence differently.
+- Avoids dualism by causally linking Layer 3 to Layer 2's sensory/biological phenomena, with no independent existence post-biology.
+- Note on scope: Extends only to biological consciousness; non-biological systems lack this ethical grounding without proven Layer 3 equivalence. 
