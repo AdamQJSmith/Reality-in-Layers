@@ -27,8 +27,8 @@ By clearly separating the ontologically distinct layers of reality from the cros
 ```mermaid
 graph TD;
     subgraph "The Four Layers of Reality (The 'What')"
-        L1["<b>L1: Physical</b><br/>(Matter, energy)"]
-        L2["<b>L2: Biological</b><br/>(Life, senses, neural infrastructure)"]
+        L1["<b>L1: Physical</b><br/>(Matter, energy, physical law)"]
+        L2["<b>L2: Biological</b><br/>(Living systems, biological laws, senses, neural infrastructure)"]
         L3["<b>L3: Subjective</b><br/>(Conscious experience)"]
         L4["<b>L4: Intersubjective</b><br/>(Language, logic, theories, norms)"]
     end
@@ -43,7 +43,7 @@ graph TD;
     L3 -- "Articulates into" --> L4
     
     L1 -- "Physical Evidence" --> P
-    L2 -- "Biological Evidence" --> P
+    L2 -- "Sensory Evidence" --> P
     L3 -- "Experiential Evidence" --> P
     L4 -- "Abstract Evidence<br/>(e.g. a formal system)" --> P
     L4 -- "Provides Tools<br/>(Logic, Language)" --> P

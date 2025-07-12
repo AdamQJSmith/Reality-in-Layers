@@ -13,13 +13,13 @@ Second, separate from these layers, there is the **Process of Objectification**â
 
 Inspired by William James, this framework emphasizes that good ideas should be accessible, offering options for engagement even to the general public. It aims to clarify objectivity in a way that bridges expert insights with everyday understanding.
 
-This model, visualized below (with a textual description for accessibility: The diagram shows Layer 1 foundational to Layer 2, which enables and constrains Layer 3, which articulates into Layer 4. All layers feed evidence into the separate Process of Objectification, which uses tools from Layer 4 to produce objective knowledge claims and artifacts that feed back into Layer 4. Layer 4 also provides tools like logic and language to the process.), resolves potential circularities by showing how Layer 4 houses the intersubjective artifacts produced by the process, while the process itself operates independently across all layers.
+This model, visualized below (with a textual description for accessibility: The diagram shows Layer 1 foundational to Layer 2, which enables and constrains Layer 3, which articulates into Layer 4. All layers feed evidence (Physical from L1, Sensory from L2, Experiential from L3, Abstract from L4) into the separate Process of Objectification, which uses tools from Layer 4 to produce objective knowledge claims and artifacts that feed back into Layer 4. Layer 4 also provides tools like logic and language to the process.), resolves potential circularities by showing how Layer 4 houses the intersubjective artifacts produced by the process, while the process itself operates independently across all layers.
 
 ```mermaid
 graph TD;
     subgraph "The Four Layers of Reality (The 'What')"
-        L1["<b>L1: Physical</b><br/>(Matter, energy)"]
-        L2["<b>L2: Biological</b><br/>(Life, senses, neural infrastructure)"]
+        L1["<b>L1: Physical</b><br/>(Matter, energy, physical law)"]
+        L2["<b>L2: Biological</b><br/>(Living systems, biological laws, senses, neural infrastructure)"]
         L3["<b>L3: Subjective</b><br/>(Conscious experience)"]
         L4["<b>L4: Intersubjective</b><br/>(Language, logic, theories, norms)"]
     end
@@ -34,7 +34,7 @@ graph TD;
     L3 -- "Articulates into" --> L4
     
     L1 -- "Physical Evidence" --> P
-    L2 -- "Biological Evidence" --> P
+    L2 -- "Sensory Evidence" --> P
     L3 -- "Experiential Evidence" --> P
     L4 -- "Abstract Evidence<br/>(e.g. a formal system)" --> P
     L4 -- "Provides Tools<br/>(Logic, Language)" --> P
