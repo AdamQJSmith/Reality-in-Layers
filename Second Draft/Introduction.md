@@ -1,0 +1,46 @@
+# 1. Introduction
+
+I've always struggled to make sense of the diverse ways we come to know and understand the world. Initially, it seemed straightforward: I wanted to grasp why different fields, from physics to ethics, rely on distinct methods yet each claims its own form of objectivity. This framework addresses that by mapping reality into four distinct **Layers of Reality**—ontological realms that categorize where everything that exists resides, from physical matter to abstract constructs. These layers not only delineate the 'what' of existence but also illuminate the 'how' of achieving objectivity across them.
+
+This framework is built on two core ideas. First, there are four fundamental **Layers of Reality**, which relate to each other in a filtering, hierarchical structure while remaining distinct realms of existence:
+
+*   **Layer 1: Physical (L1):** The bedrock of mind-independent matter, energy, and physical law. This is the layer of mountains, moles, and molecules. It is the foundation for all other layers.
+*   **Layer 2: Biological (L2):** Arising from the physical, this is the layer of living systems. We study this layer differently than the physical, observing how organisms function. Critically, a key aspect of this layer is that it contains the biological faculties—senses, neural networks—that **enable and constrain** the potential for consciousness.
+*   **Layer 3: Subjective (L3):** The first-person reality of conscious experience—the "what it's like" quality of seeing red, feeling joy, or perceiving a flowing river. This layer is profoundly shaped by the biological; a beetle, a bull, and a human experience the same physical river in vastly different ways because their biological makeup (L2) acts as a unique filter. While we can connect subjective reports to biological activity, a part of this experience remains, at present, irreducible.
+*   **Layer 4: Intersubjective (L4):** The shared reality of abstract constructs that allow us to articulate and structure our thoughts. This is where language, logic, mathematics, theories, and cultural norms exist.
+
+Second, separate from these layers, there is the **Process of Objectification**—a human activity that forges knowledge by drawing evidence from any of the four layers and producing shareable artifacts (e.g., theories, norms) that reside in Layer 4. The standards of rigor and emphasis on tools shift depending on the source layer's nature, but the process allows for cross-layer integration to enhance applicability. For instance, in Layer 1 (physical), the process demands empirical discovery through observation and measurement, pointing to mind-independent phenomena for support. In Layer 3 (subjective), it begins with articulating irreducible experiences (e.g., moral intuitions) logically and consistently, but can pull in evidence from lower layers—like biological insights on harm or historical patterns—to make a theory of morality more convincing and broadly applicable. This flexibility ensures that while each layer has its unique 'texture,' the process adapts without diminishing their ontological distinctness.
+
+Inspired by William James, this framework emphasizes that good ideas should be accessible, offering options for engagement even to the general public. It aims to clarify objectivity in a way that bridges expert insights with everyday understanding.
+
+This model, visualized below (with a textual description for accessibility: The diagram shows Layer 1 foundational to Layer 2, which enables and constrains Layer 3, which articulates into Layer 4. All layers feed evidence into the separate Process of Objectification, which uses tools from Layer 4 to produce objective knowledge claims and artifacts that feed back into Layer 4. Layer 4 also provides tools like logic and language to the process.), resolves potential circularities by showing how Layer 4 houses the intersubjective artifacts produced by the process, while the process itself operates independently across all layers.
+
+```mermaid
+graph TD;
+    subgraph "The Four Layers of Reality (The 'What')"
+        L1["<b>L1: Physical</b><br/>(Matter, energy)"]
+        L2["<b>L2: Biological</b><br/>(Life, senses, neural infrastructure)"]
+        L3["<b>L3: Subjective</b><br/>(Conscious experience)"]
+        L4["<b>L4: Intersubjective</b><br/>(Language, logic, theories, norms)"]
+    end
+
+    subgraph "The Process of Objectification<br/>(The 'How')"
+        direction LR
+        P["<b>The Process</b><br/>A human activity of:<br/>- Formulating claims<br/>- Applying logical/formal tools<br/>- Public scrutiny & debate<br/>- Consensus-building"]
+    end
+
+    L1 -- "<b>Is Foundational To</b>" --> L2
+    L2 -- "<b>Enables & Constrains</b>" --> L3
+    L3 -- "Articulates into" --> L4
+    
+    L1 -- "Physical Evidence" --> P
+    L2 -- "Biological Evidence" --> P
+    L3 -- "Experiential Evidence" --> P
+    L4 -- "Abstract Evidence<br/>(e.g. a formal system)" --> P
+    L4 -- "Provides Tools<br/>(Logic, Language)" --> P
+    
+    P --> |"Produces Artifacts"| L4
+    P --> |"Objective Knowledge"| K[Knowledge Claim]
+```
+
+By separating the "what" (the ontologically distinct layers) from the "how" (the cross-layer process), this framework provides an elegant map of both existence and knowledge. Building on the dependencies between layers, it honors their unique textures—from atoms to consciousness to logic—while clarifying the shared, rigorous process by which we come to understand and objectify them. 
