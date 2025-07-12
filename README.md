@@ -1,6 +1,6 @@
 # Reality-in-Layers
 
-## The "Why"
+## Why
 
 This project does not aim to invent new philosophical categories. The ideas of thinkers like John Searle and Karl Popper are powerful, but academic frameworks can often feel dense and clumsy when used as practical tools for communication.
 
