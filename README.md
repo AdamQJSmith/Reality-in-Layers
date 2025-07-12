@@ -1,12 +1,10 @@
-# Reality-in-Layers: The Goal is Elegant Clarity
+# Reality-in-Layers
 
-**Note:** For the latest refined introduction, see [Second Draft/Introduction.md](Second Draft/Introduction.md).
-
-## The "Why" of This Project
+## The "Why"
 
 This project does not aim to invent new philosophical categories. The ideas of thinkers like John Searle and Karl Popper are powerful, but academic frameworks can often feel dense and clumsy when used as practical tools for communication.
 
-The goal of this project is different. It is to create a framework that prioritizes **elegance and utility** over exhaustive philosophical rigor.
+The goal of this project is to create a framework that prioritizes **elegance and utility** over exhaustive philosophical rigor.
 
 ## Our Contribution: A Practical Map
 
