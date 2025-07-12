@@ -6,8 +6,8 @@ This framework is built on two core ideas. First, there are four fundamental **L
 
 *   **Layer 1: Physical (L1):** The bedrock of mind-independent matter, energy, and physical law. This is the layer of mountains, moles, and molecules. It is the foundation for all other layers.
 *   **Layer 2: Biological (L2):** Arising from the physical, this is the layer of living systems. We study this layer differently than the physical, observing how organisms function. Critically, a key aspect of this layer is that it contains the biological faculties—senses, neural networks—that **enable and constrain** the potential for consciousness.
-*   **Layer 3: Subjective (L3):** The first-person reality of conscious experience—the "what it's like" quality of seeing red, feeling joy, or perceiving a flowing river. This layer is profoundly shaped by the biological; a beetle, a bull, and a human experience the same physical river in vastly different ways because their biological makeup (L2) acts as a unique filter. While we can connect subjective reports to biological activity, a part of this experience remains, at present, irreducible.
-*   **Layer 4: Intersubjective (L4):** The shared reality of abstract constructs that allow us to articulate and structure our thoughts. This is where language, logic, mathematics, theories, and cultural norms exist.
+*   **Layer 3: Experience (L3):** The first-person reality of subjective conscious experience—the "what it's like" quality of seeing red, feeling joy, or perceiving a flowing river. This layer is profoundly shaped by the biological; a beetle, a bull, and a human experience the same physical river in vastly different ways because their biological makeup (L2) acts as a unique filter. While we can connect reports to biological activity, a part of this experience remains, at present, irreducible.
+*   **Layer 4: Constructs (L4):** The shared reality of intersubjective constructs that allow us to articulate and structure our thoughts through consensus formation and social constructions. This is where language, logic, mathematics, theories, and cultural norms exist.
 
 Second, separate from these layers, there is the **Process of Objectification**—a human activity that forges knowledge by drawing evidence from any of the four layers and producing shareable artifacts (e.g., theories, norms) that reside in Layer 4. The standards of rigor and emphasis on tools shift depending on the source layer's nature, but the process allows for cross-layer integration to enhance applicability. For instance, in Layer 1 (physical), the process demands empirical discovery through observation and measurement, pointing to mind-independent phenomena for support. In Layer 3 (subjective), it begins with articulating irreducible experiences (e.g., moral intuitions) logically and consistently, but can pull in evidence from lower layers—like biological insights on harm or historical patterns—to make a theory of morality more convincing and broadly applicable. This flexibility ensures that while each layer has its unique 'texture,' the process adapts without diminishing their ontological distinctness.
 
@@ -20,8 +20,8 @@ graph TD;
     subgraph "The Four Layers of Reality (The 'What')"
         L1["<b>L1: Physical</b><br/>(Matter, energy, physical law)"]
         L2["<b>L2: Biological</b><br/>(Living systems, senses, neural infrastructure)"]
-        L3["<b>L3: Subjective</b><br/>(Conscious experience)"]
-        L4["<b>L4: Intersubjective</b><br/>(Language, logic, theories, norms)"]
+        L3["<b>L3: Experience</b><br/>(Subjective conscious experience)"]
+        L4["<b>L4: Constructs</b><br/>(Intersubjective consensus formation, social constructions, language, logic, theories, norms)"]
     end
 
     subgraph "The Process of Objectification<br/>(The 'How')"
