@@ -9,7 +9,7 @@ This framework is built on two core ideas. First, there are four fundamental **L
 *   **Layer 3: Experience (L3):** The first-person reality of subjective conscious experience—the "what it's like" quality of seeing red, feeling joy, or perceiving a flowing river. This layer is profoundly shaped by the biological; a beetle, a bull, and a human experience the same physical river in vastly different ways because their biological makeup (L2) acts as a unique filter. While we can connect reports to biological activity, a part of this experience remains, at present, irreducible.
 *   **Layer 4: Constructs (L4):** The shared reality of intersubjective constructs that allow us to articulate and structure our thoughts through consensus formation and social constructions. This is where language, logic, mathematics, theories, and cultural norms exist.
 
-Second, separate from these layers, there is the **Process of Objectification**—a human activity that forges knowledge by drawing evidence from any of the four layers and producing shareable artifacts (e.g., theories, norms) that reside in Layer 4. The standards of rigor and emphasis on tools shift depending on the source layer's nature, but the process allows for cross-layer integration to enhance applicability. For instance, in Layer 1 (physical), the process demands empirical discovery through observation and measurement, pointing to mind-independent phenomena for support. In Layer 3 (subjective), it begins with articulating irreducible experiences (e.g., moral intuitions) logically and consistently, but can pull in evidence from lower layers—like biological insights on harm or historical patterns—to make a theory of morality more convincing and broadly applicable. This flexibility ensures that while each layer has its unique 'texture,' the process adapts without diminishing their ontological distinctness.
+Second, separate from these layers, there is the **Process of Objectification**—a human activity that forges knowledge by drawing evidence from any of the four layers and producing shareable artifacts (e.g., theories, norms) that reside in Layer 4. The standards of rigor and emphasis on tools shift depending on the source layer's nature, but the process allows for cross-layer integration to enhance applicability. For instance, in Layer 1 (physical), the process demands empirical discovery through observation and measurement, pointing to mind-independent phenomena for support. In Layer 3 (experience), it begins with articulating irreducible experiences (e.g., moral intuitions) logically and consistently, but can pull in evidence from lower layers—like biological insights on harm or historical patterns—to make a theory of morality more convincing and broadly applicable. This flexibility ensures that while each layer has its unique 'texture,' the process adapts without diminishing their ontological distinctness.
 
 Inspired by William James, this framework emphasizes that good ideas should be accessible, offering options for engagement even to the general public. It aims to clarify objectivity in a way that bridges expert insights with everyday understanding.
 
@@ -21,10 +21,10 @@ graph TD;
         L1["<b>L1: Physical</b><br/>(Matter, energy, physical law)"]
         L2["<b>L2: Biological</b><br/>(Living systems, senses, neural infrastructure)"]
         L3["<b>L3: Experience</b><br/>(Subjective conscious experience)"]
-        L4["<b>L4: Constructs</b><br/>(Intersubjective consensus formation, social constructions, language, logic, theories, norms)"]
+        L4["<b>L4: Constructs</b><br/>(Intersubjective realm of consensus-built knowledge and tools (language, logic, theories, norms))"]
     end
 
-    subgraph "The Process of Objectification<br/>(The 'How')"
+    subgraph "The Process of Objectification (The 'How')"
         direction LR
         P["<b>The Process</b><br/>A human activity of:<br/>- Formulating claims<br/>- Applying logical/formal tools<br/>- Public scrutiny & debate<br/>- Consensus-building"]
     end

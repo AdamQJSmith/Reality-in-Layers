@@ -15,7 +15,7 @@ The four layers categorize where everything exists, each filtering and enabling 
 1.  Layer 1: Physical – Matter, energy, physical law.
 2.  Layer 2: Biological – Living systems, senses, neural infrastructure.
 3.  Layer 3: Experience – Subjective, conscious experience.
-4.  Layer 4: Constructs – Intersubjective consensus formation, social constructions, language, logic, theories, norms.
+4.  Layer 4: Constructs – Intersubjective realm of consensus-built knowledge and tools (language, logic, theories, norms).
 
 **The Process of Objectification**
 The process draws evidence from the layers, integrates across layers (e.g., biological insights into subjective theories), and produces artifacts in Layer 4. It uses tools from Layer 4 to formulate claims, conduct scrutiny, and build consensus.
@@ -28,7 +28,7 @@ graph TD;
         L1["L1: Physical<br/>(Matter, energy, physical law)"]
         L2["L2: Biological<br/>(Living systems, senses, neural infrastructure)"]
         L3["L3: Experience<br/>(Subjective, conscious experience)"]
-        L4["L4: Constructs<br/>(Intersubjective consensus formation, social constructions, language, logic, theories, norms)"]
+        L4["L4: Constructs<br/>(Intersubjective realm of consensus-built knowledge and tools (language, logic, theories, norms))"]
     end
 
     subgraph "The Process of Objectification"
