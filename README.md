@@ -8,12 +8,12 @@ This framework helps understand the different parts of reality and how we make t
 
 ## Structure
 
-This is the best way we can think of describing the above parts of reality and how objectivity happens. It is a more granular approach to how we landed on this breakdown, distinguishing four layers from the process of objectification.
+The framework distinguishes four layers of reality from the process of objectification.
 
 **The Four Layers of Reality**
 The four layers categorize where everything exists, each filtering and enabling the others:
 1.  Layer 1: Physical – Matter, energy, physical law.
-2.  Layer 2: Biological – Living systems, biological laws, senses, neural infrastructure.
+2.  Layer 2: Biological – Living systems, senses, neural infrastructure.
 3.  Layer 3: Subjective – Conscious experience.
 4.  Layer 4: Intersubjective – Language, logic, theories, norms.
 
@@ -26,7 +26,7 @@ The framework shows why fields use different methods and how objectivity works a
 graph TD;
     subgraph "The Four Layers of Reality"
         L1["L1: Physical<br/>(Matter, energy, physical law)"]
-        L2["L2: Biological<br/>(Living systems, biological laws, senses, neural infrastructure)"]
+        L2["L2: Biological<br/>(Living systems, senses, neural infrastructure)"]
         L3["L3: Subjective<br/>(Conscious experience)"]
         L4["L4: Intersubjective<br/>(Language, logic, theories, norms)"]
     end

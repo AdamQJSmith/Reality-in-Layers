@@ -19,7 +19,7 @@ This model, visualized below (with a textual description for accessibility: The 
 graph TD;
     subgraph "The Four Layers of Reality (The 'What')"
         L1["<b>L1: Physical</b><br/>(Matter, energy, physical law)"]
-        L2["<b>L2: Biological</b><br/>(Living systems, biological laws, senses, neural infrastructure)"]
+        L2["<b>L2: Biological</b><br/>(Living systems, senses, neural infrastructure)"]
         L3["<b>L3: Subjective</b><br/>(Conscious experience)"]
         L4["<b>L4: Intersubjective</b><br/>(Language, logic, theories, norms)"]
     end
