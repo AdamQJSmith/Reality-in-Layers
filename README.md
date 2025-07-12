@@ -8,7 +8,7 @@ This framework helps understand the different parts of reality and how we make t
 
 ## Structure
 
-This structure is the best way we can think of describing the above parts of reality and how objectivity happens. It is a more granular approach to how we landed on this, breaking it up by distinguishing four layers from the process of objectification.
+This is the best way we can think of describing the above parts of reality and how objectivity happens. It is a more granular approach to how we landed on this breakdown, distinguishing four layers from the process of objectification.
 
 **The Four Layers of Reality**
 The four layers categorize where everything exists, each filtering and enabling the others:
