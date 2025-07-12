@@ -1,14 +1,14 @@
 # Reality-in-Layers
 
-**Note:** For the latest introduction, see [Second Draft/Introduction.md](Second Draft/Introduction.md).
+## The "Why"
 
-## Why This Project Exists
+This project does not aim to invent new philosophical categories. The ideas of thinkers like John Searle and Karl Popper are powerful, but academic frameworks can often feel dense and clumsy when used as practical tools for communication.
 
-This project develops a framework that maps reality into four ontological layers and separates the process of objectification to explain how we know and validate the world across different fields.
+The goal of this project is to create a framework that prioritizes **elegance and utility** over exhaustive philosophical rigor.
 
-## The Framework
+## Our Contribution: A Practical Map
 
-This framework distinguishes the four layers of reality from the process of objectification.
+This framework is a "workbench diagram" that separates the "what" from the "how" to allow for a more productive conversation.
 
 **The Four Layers of Reality**
 The framework identifies four ontological layers that categorize where everything exists, each filtering and enabling the others:
