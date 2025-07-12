@@ -4,11 +4,11 @@
 
 ## Purpose
 
-This framework maps reality into four ontological layers and separates the process of objectification to explain how we know and validate the world across different fields.
+This framework helps understand the different parts of reality and how we make those parts objective facts. There is a relationship here because the more we know how each can contribute to becoming facts (and how they cannot) and what the process differences are for each, the more we learn about them in turn.
 
 ## Structure
 
-The framework distinguishes four layers of reality from the process of objectification.
+This structure is the best way we can think of describing the above parts of reality and how objectivity happens. It is a more granular approach to how we landed on this, breaking it up by distinguishing four layers from the process of objectification.
 
 **The Four Layers of Reality**
 The four layers categorize where everything exists, each filtering and enabling the others:
