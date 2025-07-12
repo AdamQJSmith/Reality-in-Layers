@@ -45,3 +45,10 @@ graph TD;
 ```
 
 By separating the "what" (the ontologically distinct layers) from the "how" (the cross-layer process), this framework provides an elegant map of both existence and knowledge. Building on the dependencies between layers, it honors their unique textures—from atoms to consciousness to logic—while clarifying the shared, rigorous process by which we come to understand and objectify them. 
+
+### Framework Overview
+This framework maps reality into four layers to explain how objectivity is achieved across diverse fields. It separates the 'what' (ontological layers, from physical foundations to intersubjective constructs) from the 'how' (the objectification process that draws from layers and applies tools like logic and consensus to produce shareable knowledge).
+
+The layers are treated as distinct for evidential purposes, highlighting different inputs (e.g., measurable biological information vs. subjective conscious experiences) and how they integrate in the process. It remains compatible with potential future scientific developments, such as reducing consciousness to biology and collapsing Layers 2 and 3, while still delineating the mechanics of objectivity in accessible terms.
+
+This structure clarifies why methods vary across domains without implying a hierarchy, grounding the explanation in reality's varied aspects. 
