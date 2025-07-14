@@ -36,12 +36,8 @@ graph TD;
         P["Building consensus through:<br/>- Formulating claims<br/>- Conducting research<br/>- Employing methods & protocols<br/>- Scrutiny & debate"]
     end
 
-    L1 -- "Foundational To" --> L2
-    L2 -- "Enables/Constrains<br/>via Sensory Mechanisms" --> L3
-    L3 -- "Articulates into" --> L4
-    
-    L1 -- "Physical Evidence" --> P
-    L2 -- "Biological Mechanisms<br/>& Sensory Information" --> P
+    L1 -- "Physical/Empirical Evidence" --> P
+    L2 -- "Biological Mechanisms: Sensory Information" --> P
     L3 -- "Conscious Experiences" --> P
     L4 -- "Knowledge Constructs<br/>(e.g., theories, norms)" --> P
     L4 -- "Provides Tools<br/>(e.g., logic, language)" --> P
