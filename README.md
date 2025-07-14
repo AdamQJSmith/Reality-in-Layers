@@ -25,10 +25,10 @@ The framework shows why fields use different methods and how objectivity works a
 ```mermaid
 graph TD;
     subgraph "The Four Layers of Reality"
-        L1["L1: Physical<br/>(Matter, energy, physical law)"]
-        L2["L2: Biological<br/>(Living systems, senses, neural infrastructure)"]
-        L3["L3: Experience<br/>(Subjective, conscious experience)"]
-        L4["L4: Constructs<br/>(Intersubjective realm of consensus-built knowledge and tools (language, logic, theories, norms))"]
+        L1["L1: Physical<br/>(Matter, energy,<br/>physical law)"]
+        L2["L2: Biological<br/>(Living systems, senses,<br/>neural infrastructure)"]
+        L3["L3: Experience<br/>(Subjective, conscious<br/>experience)"]
+        L4["L4: Constructs<br/>(Intersubjective realm of<br/>consensus-built knowledge<br/>and tools (language, logic,<br/>theories, norms))"]
     end
 
     subgraph "Process of Objectification"
