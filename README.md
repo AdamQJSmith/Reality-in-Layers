@@ -37,7 +37,7 @@ graph TD;
     end
 
     L1 -- "Is Foundational To" --> L2
-    L2 -- "Enables/Constrains via Sensory Mechanisms → Gives Rise to Subjective Experience" --> L3
+    L2 -- "Enables/Constrains<br/>via Sensory Mechanisms<br/>→ Gives Rise to<br/>Subjective Experience" --> L3
     L3 -- "Articulates into" --> L4
     
     L1 -- "Physical/Empirical Evidence" --> P
