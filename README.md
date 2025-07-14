@@ -25,10 +25,10 @@ The framework shows why fields use different methods and how objectivity works a
 ```mermaid
 graph TD;
     subgraph "The Four Layers of Reality"
-        L1["L1: Physical<br/>(Matter, energy, physical law)"]
-        L2["L2: Biological<br/>(Living systems, sensory mechanisms, neural infrastructure)"]
-        L3["L3: Experience<br/>(Subjective, conscious experience)"]
-        L4["L4: Constructs<br/>(Intersubjective realm of consensus-built knowledge and tools (language, logic, theories, norms))"]
+        L1["L1: Physical<br/>(Matter, energy, laws)"]
+        L2["L2: Biological<br/>(Living systems, senses, neural infrastructure)"]
+        L3["L3: Experience<br/>(Subjective, conscious)"]
+        L4["L4: Constructs<br/>(Intersubjective knowledge & tools)"]
     end
 
     subgraph "Process of Objectification"
@@ -36,15 +36,15 @@ graph TD;
         P["Building consensus through:<br/>- Formulating claims<br/>- Conducting research<br/>- Employing methods & protocols<br/>- Scrutiny & debate"]
     end
 
-    L1 -- "Is Foundational To" --> L2
-    L2 -- "Enables/Constrains via Sensory Mechanisms → Gives Rise to Subjective Experience" --> L3
-    L3 -- "Articulates into (contingent on reduction; currently distinct)" --> L4
+    L1 -- "Foundational To" --> L2
+    L2 -- "Enables/Constrains<br/>via Sensory Mechanisms" --> L3
+    L3 -- "Articulates into<br/>(contingent on reduction)" --> L4
     
-    L1 -- "Physical/Empirical Evidence" --> P
-    L2 -- "Sensory/Biological Information" --> P
+    L1 -- "Physical Evidence" --> P
+    L2 -- "Biological Mechanisms<br/>& Sensory Information" --> P
     L3 -- "Conscious Experiences" --> P
-    L4 -- "Knowledge Constructs<br/>(e.g. theories, norms)" --> P
-    L4 -- "Provides Tools<br/>(Logic, Language)" --> P
+    L4 -- "Knowledge Constructs<br/>(e.g., theories, norms)" --> P
+    L4 -- "Provides Tools<br/>(e.g., logic, language)" --> P
     
     P --> |"Produces Artifacts"| L4
     P --> |"Objective Knowledge"| K[Knowledge Claim]
