@@ -26,7 +26,7 @@ The framework shows why fields use different methods and how objectivity works a
 graph TD;
     subgraph "The Four Layers of Reality"
         L1["L1: Physical<br/>(Matter, energy,<br/>physical law)"]
-        L2["L2: Biological<br/>(Living systems, senses,<br/>neural infrastructure)"]
+        L2["L2: Biological systems<br/>(organic functions, neural<br/>infrastructure, sensory mechanisms)"]
         L3["L3: Experience<br/>(Subjective, conscious<br/>experience)"]
         L4["L4: Constructs<br/>(Intersubjective realm of<br/>consensus-built knowledge<br/>and tools (language, logic,<br/>theories, norms))"]
     end
