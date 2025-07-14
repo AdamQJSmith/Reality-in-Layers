@@ -17,7 +17,7 @@ This model, visualized below (with a textual description for accessibility: The 
 graph TD;
     subgraph "The Four Layers of Reality (The 'What')"
         L1["L1: Physical<br/>(Matter, energy,<br/>physical law)"]
-        L2["<b>L2: Interactive Layer</b><br/>(Functions enabling subject-like<br/>interaction, sensory mechanisms,<br/>neural infrastructure)"]
+        L2["L2: Interactive Layer<br/>(Functions enabling subject-like<br/>interaction, sensory mechanisms,<br/>neural infrastructure, e.g.,<br/>biological systems)"]
         L3["L3: Experience<br/>(Subjective, conscious<br/>experience)"]
         L4["L4: Constructs<br/>(Intersubjective realm of<br/>consensus-built knowledge<br/>and tools (language, logic,<br/>theories, norms))"]
     end
