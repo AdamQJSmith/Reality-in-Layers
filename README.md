@@ -38,7 +38,7 @@ graph TD;
 
     L1 -- "Foundational To" --> L2
     L2 -- "Enables/Constrains<br/>via Sensory Mechanisms" --> L3
-    L3 -- "Articulates into<br/>(contingent on reduction)" --> L4
+    L3 -- "Articulates into" --> L4
     
     L1 -- "Physical Evidence" --> P
     L2 -- "Biological Mechanisms<br/>& Sensory Information" --> P
