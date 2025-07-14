@@ -27,7 +27,7 @@ graph TD;
 
     subgraph "Process of Objectification"
         direction LR
-        P["<b>A human activity of:</b><br/>- Formulating claims<br/>- Applying logical/formal tools<br/>- Public scrutiny & debate<br/>- Consensus-building"]
+        P["Building consensus through:<br/>- Formulating claims<br/>- Employing methods & protocols<br/>- Public scrutiny & debate"]
     end
 
     L1 -- "<b>Is Foundational To</b>" --> L2

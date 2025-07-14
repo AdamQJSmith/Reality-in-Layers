@@ -33,7 +33,7 @@ graph TD;
 
     subgraph "Process of Objectification"
         direction LR
-        P["Aims to build consensus through:<br/>- Formulate claims<br/>- Apply tools<br/>- Scrutiny & debate"]
+        P["Building consensus through:<br/>- Formulating claims<br/>- Conducting research<br/>- Employing methods & protocols<br/>- Scrutiny & debate"]
     end
 
     L1 -- "Is Foundational To" --> L2
