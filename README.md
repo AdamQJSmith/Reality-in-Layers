@@ -13,7 +13,7 @@ The framework distinguishes four layers of reality from the process of objectifi
 **The Four Layers of Reality**
 The four layers categorize where everything exists, each filtering and enabling the others:
 1.  Layer 1: Physical – Matter, energy, physical law.
-2.  Layer 2: Biological – Living systems, senses, neural infrastructure.
+2.  Layer 2: Interactive Layer – Functions enabling subject-like interaction, sensory mechanisms, neural infrastructure.
 3.  Layer 3: Experience – Subjective, conscious experience.
 4.  Layer 4: Constructs – Intersubjective realm of consensus-built knowledge and tools (language, logic, theories, norms).
 
@@ -26,7 +26,7 @@ The framework shows why fields use different methods and how objectivity works a
 graph TD;
     subgraph "The Four Layers of Reality"
         L1["L1: Physical<br/>(Matter, energy,<br/>physical law)"]
-        L2["L2: Interactive Layer<br/>(Systems enabling physical<br/>interaction, sensory mechanisms,<br/>neural infrastructure)"]
+        L2["L2: Interactive Layer<br/>(Functions enabling subject-like<br/>interaction, sensory mechanisms,<br/>neural infrastructure)"]
         L3["L3: Experience<br/>(Subjective, conscious<br/>experience)"]
         L4["L4: Constructs<br/>(Intersubjective realm of<br/>consensus-built knowledge<br/>and tools (language, logic,<br/>theories, norms))"]
     end
@@ -37,7 +37,7 @@ graph TD;
     end
 
     L1 -- "Is Foundational To" --> L2
-    L2 -- "Enables Interaction → Gives Rise to Experience" --> L3
+    L2 -- "Enables Subject-Like Interaction → Gives Rise to Experience" --> L3
     L3 -- "Articulates into" --> L4
     
     L1 -- "Physical/Empirical Evidence" --> P
@@ -56,7 +56,7 @@ graph TD;
 #### Layer Descriptions
 
 *   **Layer 1: Physical (L1):** The bedrock of mind-independent matter, energy, and physical law. This is the layer of mountains, moles, and molecules. It is the foundation for all other layers.
-*   **Layer 2: Interactive Layer (L2):** Biological systems that enable interaction with the physical world through sensory mechanisms and neural infrastructure, distinguishing them from inert matter and giving rise to consciousness in Layer 3.
+*   **Layer 2: Interactive Layer (L2):** The foundation carrying functions that enable subject-like interaction with the physical world, including sensory mechanisms and neural infrastructure, setting it apart from L1 and powering L3 consciousness.
 *   **Layer 3: Experience (L3):** The first-person reality of subjective conscious experience (the "what it's like" quality of seeing red, feeling joy, or perceiving a flowing river). This layer is profoundly shaped by the biological; a beetle, a bull, and a human experience the same physical river in vastly different ways because their biological makeup (L2) acts as a unique filter. While we can connect reports to biological activity, a part of this experience remains, at present, irreducible (contingent on future scientific reduction; currently treated as distinct for evidential purposes).
 *   **Layer 4: Constructs (L4):** The shared reality of intersubjective constructs that allow us to articulate and structure our thoughts through consensus formation and social constructions. This is where language, logic, mathematics, theories, and cultural norms exist.
 
