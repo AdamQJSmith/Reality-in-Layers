@@ -31,9 +31,9 @@ graph TD;
         L4["L4: Constructs<br/>(Intersubjective realm of consensus-built knowledge and tools (language, logic, theories, norms))"]
     end
 
-    subgraph "Objectification Process"
+    subgraph "Process of Objectification"
         direction LR
-        P["The Process<br/>- Formulate claims<br/>- Apply tools<br/>- Scrutiny & debate<br/>- Build consensus"]
+        P["Aims to build consensus through:<br/>- Formulate claims<br/>- Apply tools<br/>- Scrutiny & debate"]
     end
 
     L1 -- "Is Foundational To" --> L2
