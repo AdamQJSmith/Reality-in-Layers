@@ -16,10 +16,10 @@ This model, visualized below (with a textual description for accessibility: The 
 ```mermaid
 graph TD;
     subgraph "The Four Layers of Reality (The 'What')"
-        L1["<b>L1: Physical</b><br/>(Matter, energy, physical law)"]
-        L2["<b>L2: Biological systems</b><br/>(Sensory mechanisms, neural<br/>networks, living functions)"]
-        L3["<b>L3: Experience</b><br/>(Subjective conscious experience)"]
-        L4["<b>L4: Constructs</b><br/>(Intersubjective realm of consensus-built knowledge and tools (language, logic, theories, norms))"]
+        L1["L1: Physical<br/>(Matter, energy,<br/>physical law)"]
+        L2["L2: Biological systems<br/>(organic functions, neural<br/>infrastructure,<br/>sensory mechanisms)"]
+        L3["L3: Experience<br/>(Subjective, conscious<br/>experience)"]
+        L4["L4: Constructs<br/>(Intersubjective realm of<br/>consensus-built knowledge<br/>and tools (language, logic,<br/>theories, norms))"]
     end
 
     subgraph "Process of Objectification"
