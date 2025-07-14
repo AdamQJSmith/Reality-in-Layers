@@ -19,10 +19,10 @@ This model, visualized below (with a textual description for accessibility: The 
 ```mermaid
 graph TD;
     subgraph "The Four Layers of Reality (The 'What')"
-        L1["<b>L1: Physical</b><br/>(Matter, energy, physical law)"]
+        L1["<b>L1: Physical</b><br/>(Matter, energy, laws)"]
         L2["<b>L2: Biological</b><br/>(Living systems, senses, neural infrastructure)"]
-        L3["<b>L3: Experience</b><br/>(Subjective conscious experience)"]
-        L4["<b>L4: Constructs</b><br/>(Intersubjective realm of consensus-built knowledge and tools (language, logic, theories, norms))"]
+        L3["<b>L3: Experience</b><br/>(Subjective conscious)"]
+        L4["<b>L4: Constructs</b><br/>(Intersubjective knowledge & tools)"]
     end
 
     subgraph "Process of Objectification"
@@ -30,25 +30,16 @@ graph TD;
         P["Building consensus through:<br/>- Formulating claims<br/>- Employing methods & protocols<br/>- Public scrutiny & debate"]
     end
 
-    L1 -- "<b>Is Foundational To</b>" --> L2
-    L2 -- "<b>Enables & Constrains</b>" --> L3
-    L3 -- "Articulates into" --> L4
+    L1 -- "<b>Foundational To</b>" --> L2
+    L2 -- "<b>Enables & Constrains</b><br/>via Sensory Mechanisms" --> L3
+    L3 -- "Articulates into<br/>(contingent on reduction)" --> L4
     
     L1 -- "Physical Evidence" --> P
     L2 -- "Sensory Evidence" --> P
     L3 -- "Experiential Evidence" --> P
     L4 -- "Abstract Evidence<br/>(e.g. a formal system)" --> P
-    L4 -- "Provides Tools<br/>(Logic, Language)" --> P
+    L4 -- "Provides Tools<br/>(e.g., logic, language)" --> P
     
     P --> |"Produces Artifacts"| L4
     P --> |"Objective Knowledge"| K[Knowledge Claim]
 ```
-
-By separating the "what" (the ontologically distinct layers) from the "how" (the cross-layer process), this framework provides an elegant map of both existence and knowledge. Building on the dependencies between layers, it honors their unique textures (from atoms to consciousness to logic) while clarifying the shared, rigorous process by which we come to understand and objectify them.
-
-### Framework Overview
-This framework maps reality into four layers to explain how objectivity is achieved across diverse fields. It separates the 'what' (ontological layers, from physical foundations to intersubjective constructs) from the 'how' (the objectification process that draws from layers and applies tools like logic and consensus to produce shareable knowledge).
-
-The layers are treated as distinct for evidential purposes, highlighting different inputs (e.g., measurable biological information vs. subjective conscious experiences) and how they integrate in the process. It remains compatible with potential future scientific developments, such as reducing consciousness to biology and collapsing Layers 2 and 3, while still delineating the mechanics of objectivity in accessible terms.
-
-This structure clarifies why methods vary across domains without implying a hierarchy, grounding the explanation in reality's varied aspects. 
