@@ -5,7 +5,7 @@ I've always struggled to make sense of the diverse ways we come to know and unde
 This framework is built on two core ideas. First, there are four fundamental **Layers of Reality**, which relate to each other in a filtering, hierarchical structure while remaining distinct realms of existence:
 
 *   **Layer 1: Physical (L1):** The bedrock of mind-independent matter, energy, and physical law. This is the layer of mountains, moles, and molecules. It is the foundation for all other layers.
-*   **Layer 2: Biological (L2):** This is the layer of living systems, encapsulating goal-directed functions such as homeostasis, metabolism, reproduction, and sensory transduction (processes that create a distinct type from the non-living entities in Layer 1, including anything else that qualifies as these functions). Sensory mechanisms here are tied to biological living systems; non-biological analogs (e.g., robot sensors) mimic aspects but are fully reducible to Layer 1 (e.g., metal, chips, electronic signals) and do not warrant extension unless evidence shows they give rise to genuine consciousness-like phenomena. We study this layer differently than the physical, observing how organisms function. Critically, a key aspect of this layer is that it contains the biological faculties (sensory mechanisms, neural networks) that **enable, constrain, and determine** the potential for consciousness.
+*   **Layer 2: Interactive Layer (L2):** The foundation carrying functions that enable subject-like interaction with the physical world, including sensory mechanisms and neural infrastructure, setting it apart from L1 and powering L3 consciousness.
 *   **Layer 3: Experience (L3):** The first-person reality of subjective conscious experience (the "what it's like" quality of seeing red, feeling joy, or perceiving a flowing river). This layer is profoundly shaped by the biological; a beetle, a bull, and a human experience the same physical river in vastly different ways because their biological makeup (L2) acts as a unique filter. While we can connect reports to biological activity, a part of this experience remains, at present, irreducible (contingent on future scientific reduction; currently treated as distinct for evidential purposes).
 *   **Layer 4: Constructs (L4):** The shared reality of intersubjective constructs that allow us to articulate and structure our thoughts through consensus formation and social constructions. This is where language, logic, mathematics, theories, and cultural norms exist.
 
@@ -17,7 +17,7 @@ This model, visualized below (with a textual description for accessibility: The 
 graph TD;
     subgraph "The Four Layers of Reality (The 'What')"
         L1["L1: Physical<br/>(Matter, energy,<br/>physical law)"]
-        L2["L2: Biological systems<br/>(organic functions, neural<br/>infrastructure,<br/>sensory mechanisms)"]
+        L2["<b>L2: Interactive Layer</b><br/>(Functions enabling subject-like<br/>interaction, sensory mechanisms,<br/>neural infrastructure)"]
         L3["L3: Experience<br/>(Subjective, conscious<br/>experience)"]
         L4["L4: Constructs<br/>(Intersubjective realm of<br/>consensus-built knowledge<br/>and tools (language, logic,<br/>theories, norms))"]
     end
@@ -28,7 +28,7 @@ graph TD;
     end
 
     L1 -- "<b>Is Foundational To</b>" --> L2
-    L2 -- "Enables/Constrains<br/>via Sensory Mechanisms<br/>→ Gives Rise to<br/>Subjective Experience" --> L3
+    L2 -- "Enables Subject-Like Interaction → Gives Rise to Experience" --> L3
     L3 -- "Articulates into" --> L4
     
     L1 -- "Physical/Empirical Evidence" --> P
