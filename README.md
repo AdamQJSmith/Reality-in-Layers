@@ -41,7 +41,7 @@ graph TD;
     L3 -- "Articulates into" --> L4
     
     L1 -- "Physical/Empirical Evidence" --> P
-    L2 -- "Biological Mechanisms: Sensory Information" --> P
+    L2 -- "Biological Mechanisms:<br/>Sensory Information" --> P
     L3 -- "Conscious Experiences" --> P
     L4 -- "Knowledge Constructs<br/>(e.g., theories, norms)" --> P
     L4 -- "Provides Tools<br/>(Logic, Language)" --> P
