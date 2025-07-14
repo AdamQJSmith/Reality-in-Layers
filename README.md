@@ -51,9 +51,14 @@ graph TD;
 
 ```
 
-### Layer Descriptions (Synced from Second Draft)
+### Detailed Explanations
+
+#### Layer Descriptions
 
 *   **Layer 1: Physical (L1):** The bedrock of mind-independent matter, energy, and physical law. This is the layer of mountains, moles, and molecules. It is the foundation for all other layers.
 *   **Layer 2: Biological (L2):** This is the layer of living systems, encapsulating goal-directed functions such as homeostasis, metabolism, reproduction, and sensory transduction (processes that create a distinct type from the non-living entities in Layer 1, including anything else that qualifies as these functions). We study this layer differently than the physical, observing how organisms function. Critically, a key aspect of this layer is that it contains the biological faculties (sensory mechanisms, neural networks) that **enable, constrain, and determine** the potential for consciousness.
 *   **Layer 3: Experience (L3):** The first-person reality of subjective conscious experience (the "what it's like" quality of seeing red, feeling joy, or perceiving a flowing river). This layer is profoundly shaped by the biological; a beetle, a bull, and a human experience the same physical river in vastly different ways because their biological makeup (L2) acts as a unique filter. While we can connect reports to biological activity, a part of this experience remains, at present, irreducible (contingent on future scientific reduction; currently treated as distinct for evidential purposes).
 *   **Layer 4: Constructs (L4):** The shared reality of intersubjective constructs that allow us to articulate and structure our thoughts through consensus formation and social constructions. This is where language, logic, mathematics, theories, and cultural norms exist.
+
+#### Process of Objectification
+The Process of Objectification is a human activity that forges objective knowledge by drawing evidence from any of the four layers and producing shareable artifacts (e.g., theories, norms) that reside in Layer 4. It builds consensus through steps like formulating claims (based on layer evidence), conducting research (gathering data), employing methods & protocols (e.g., logic, experiments), and scrutiny & debate (public review and refinement). Standards of rigor vary by layer (e.g., empirical testing for L1, reflective equilibrium for L3), but the process allows cross-layer integration (e.g., using biological insights to strengthen ethical theories). It uses tools from Layer 4 (like language and logic) and results in artifacts that feed back into Layer 4, enabling shared, objective knowledge.
