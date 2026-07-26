@@ -14,6 +14,22 @@ This argument examines two conceptions used in claims that LLMs possess or are a
 
 The conclusion is epistemic and conceptual. It concerns what current definitions and evidence establish. It does not claim that artificial consciousness is metaphysically impossible, that computation could never participate in consciousness, or that these two conceptions exhaust every possible theory of intelligence. Other accounts may additionally emphasize embodiment, autonomy, persistent agency, social participation, or causal interaction with the world.
 
+## Thesis and scope: accessible alternative
+
+Before we can decide whether LLMs are becoming generally intelligent, we have to decide what we mean by general intelligence. People often use the term in two different ways, and the evidence looks different depending on which meaning they choose.
+
+In the first sense, intelligence means being able to perform a broad range of tasks. A system appears more generally intelligent as it becomes capable of writing, coding, planning, answering questions, using tools, and succeeding across more areas of work. In this functional sense, LLMs have clearly become more capable, and they may reasonably be described as progressing toward general intelligence.
+
+That conclusion is important, but it is also limited. Performing more tasks does not by itself show that a system understands those tasks in the way a conscious person does. Many of the tasks used to measure AI have already been broken into standardized procedures and supported by tools, databases, interfaces, and institutional rules. We also describe AI outputs with words such as *reasoning*, *judgment*, and *understanding*. Those words can accurately describe what a system accomplishes without proving that meanings or reasons are present to the system from its own point of view.
+
+The second sense of general intelligence includes this point of view. On this account, an intelligent system does not merely produce the outward results of thought. It also has subjective experience. There is something it is like to be that system, and meanings, reasons, alternatives, or experiences are present to it.
+
+If this richer form of intelligence is the target, then better performance is not enough to show that LLMs are approaching it. More computation, training, memory, context, tools, and planning can explain why a system produces more capable behavior. These improvements do not currently explain why the system would begin to have subjective experience. They also do not provide a reliable way to distinguish a conscious system from a nonconscious system that has become better at producing intelligent behavior.
+
+The central conclusion is therefore limited but significant. Current evidence establishes increasingly broad functional competence. Under a functional definition, this may count as progress toward general intelligence. Under a consciousness-inclusive definition, the same evidence does not yet establish progress toward the richer target because no validated connection between functional improvement and subjective experience has been demonstrated.
+
+This argument does not claim that artificial consciousness is impossible. It does not claim that computation could never contribute to consciousness, and it does not assume that these are the only two possible theories of intelligence. Some theories may also require embodiment, autonomy, persistent agency, social participation, or direct interaction with the world. The narrower claim is that we should not confuse evidence that a system can do more with evidence that there is now something it is like to be that system.
+
 # I. Definitions
 
 **Functional competence** is the capacity to perform tasks, produce appropriate outputs, solve problems, plan, or occupy some externally identifiable cognitive role.
