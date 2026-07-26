@@ -20,7 +20,7 @@ The conclusion is epistemic and conceptual. It concerns what current definitions
 
 **Functional general intelligence** is sufficiently broad and integrated functional competence, regardless of whether the system has subjective experience.
 
-**Rich general intelligence** is broad and integrated intelligence that includes an intrinsic point of view—one from which meanings, reasons, alternatives, goals, and experiences are present to the system itself.
+**Rich general intelligence** is broad and integrated intelligence that includes an intrinsic point of view. From that perspective, meanings, reasons, alternatives, goals, and experiences are present to the system itself.
 
 **Minimal phenomenal consciousness** is the existence of subjective experience: there is something it is like for the system to undergo its states, and those states are present from a first-person perspective. This is distinct from wakefulness, responsiveness, information availability, access consciousness, and self-monitoring.
 
@@ -174,7 +174,7 @@ flowchart TD
     P11 --> IC2
 ```
 
-This branch does not attempt to prove that artificial consciousness is impossible. It asks whether the dimensions improved by current LLM development are known to produce or reliably track phenomenal consciousness. P7 states the evidential requirement, P9 supplies the nonconscious alternative explanation, and P10–P11 identify the currently missing bridge.
+This branch does not attempt to prove that artificial consciousness is impossible. It asks whether the dimensions improved by current LLM development are known to produce or reliably track phenomenal consciousness. P7 states the evidential requirement, P9 supplies the nonconscious alternative explanation, and P10 and P11 identify the currently missing bridge.
 
 ## Dependency index
 
@@ -232,7 +232,7 @@ This subargument supports P5.
 
 **B5.** Evidence that a system satisfies a thin functional description does not logically entail that it possesses the corresponding thick, subject-involving property.
 
-**B6.** Moving from the thin sense to the thick sense requires an additional premise—for example, the functionalist thesis that occupying the appropriate functional role is sufficient for possessing the mental state.
+**B6.** Moving from the thin sense to the thick sense requires an additional premise. One example is the functionalist thesis that occupying the appropriate functional role is sufficient for possessing the mental state.
 
 **B7.** Using the same cognitive vocabulary for both senses does not establish that functionalism is true.
 
