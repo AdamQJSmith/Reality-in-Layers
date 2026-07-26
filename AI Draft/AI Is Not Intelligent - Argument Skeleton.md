@@ -79,34 +79,115 @@ P4 and P5 receive separate support:
 
 The argument does not deny that other nonfunctionalist accounts may propose different additional conditions. Its conclusion is limited to the functional and consciousness-inclusive claims examined here.
 
-# III. Dependency Map
+# III. Argument Roadmap and Dependency Maps
+
+The original single diagram compressed the complete argument into one image. The following roadmap separates the two branches so that each supporting relationship can be followed independently.
+
+**How to read the maps:** An arrow means *provides support for*. It does not mean that the source premise or subargument is sufficient by itself to prove the destination.
+
+## The whole argument at a glance
+
+```text
+P1. A justified AGI claim requires a defined target.
+│
+└── P2. This argument examines two conceptions of that target.
+    │
+    ├── ROUTE 1: FUNCTIONAL GENERAL INTELLIGENCE
+    │   │
+    │   ├── P3. Broad, integrated, reliable competence can satisfy
+    │   │       the stipulated functional definition.
+    │   │
+    │   ├── Subargument A ──supports──> P4.
+    │   │   Economic task thresholds have limited construct validity.
+    │   │
+    │   ├── Subargument B ──supports──> P5.
+    │   │   Thin functional roles do not entail thick mental properties.
+    │   │
+    │   └── P3 + P4 + P5
+    │            │
+    │            └──> INTERMEDIATE CONCLUSION 1
+    │                 Broad functional competence may be established;
+    │                 richer humanlike intelligence requires more.
+    │
+    └── ROUTE 2: CONSCIOUSNESS-INCLUSIVE GENERAL INTELLIGENCE
+        │
+        ├── Subargument C ──supports──> P6.
+        │   Rich intelligence includes a subjective perspective.
+        │
+        ├── P6 ──> P7.
+        │   Approaching consciousness requires target-relevant evidence.
+        │
+        ├── P8 + Subargument E ──support──> P9.
+        │   A nonconscious account already predicts the functional gains.
+        │
+        ├── Subargument D ──supports──> P7, P10, and P11.
+        │   No validated bridge has been established, and merely invoking
+        │   emergence does not provide one.
+        │
+        └── P6 + P7 + P8 + P9 + P10 + P11
+                     │
+                     └──> INTERMEDIATE CONCLUSION 2
+                          No evidence-backed pathway to phenomenal
+                          consciousness has been established.
+
+INTERMEDIATE CONCLUSION 1 + INTERMEDIATE CONCLUSION 2
+                         │
+                         └──> FINAL CONCLUSION
+                              Functional progress may be established;
+                              consciousness-inclusive AGI remains unestablished.
+```
+
+## Route 1: Functional general intelligence
 
 ```mermaid
-graph TD
-    P1["P1: A justified AGI claim requires a criterion"] --> P2["P2: The claims examined use functional or consciousness-inclusive criteria"]
+flowchart TD
+    P3["P3<br/>Broad and integrated competence"] --> IC1["Intermediate Conclusion 1<br/>Functional competence may be established"]
 
-    P2 --> P3["P3: Broad, integrated, reliable competence may establish functional AGI"]
-    A["Subargument A: task benchmarks and construct validity"] --> P4["P4: Economic task thresholds have limited evidential value"]
-    B["Subargument B: thin and thick cognitive attribution"] --> P5["P5: Thin roles do not entail thick mental properties"]
-    P3 --> IC1["Intermediate Conclusion 1: functional competence may be established; richer equivalence needs additional premises"]
+    A["Subargument A<br/>Task benchmarks"] --> P4["P4<br/>Economic task thresholds are limited"]
     P4 --> IC1
-    P5 --> IC1
 
-    P2 --> P6["P6: Consciousness-inclusive AGI requires a subjective perspective"]
-    C["Subargument C: richer intelligence and consciousness"] --> P6
-    P6 --> P7["P7: Approaching consciousness requires target-relevant evidence"]
-    P8["P8: LLM development demonstrates functional gains"] --> P9["P9: A nonconscious account predicts those gains"]
-    E["Subargument E: externalized cognition supplies an alternative explanation"] --> P9
-    D["Subargument D: the consciousness-pathway argument"] --> P7
-    D --> P10["P10: No validated bridge or marker currently connects the gains to consciousness"]
-    P10 --> P11["P11: Emergence alone does not supply the missing bridge"]
-    P7 --> IC2["Intermediate Conclusion 2: no evidence-backed pathway to phenomenal consciousness is established"]
+    B["Subargument B<br/>Cognitive attribution"] --> P5["P5<br/>Thin roles do not entail thick mentality"]
+    P5 --> IC1
+```
+
+This branch asks two different questions:
+
+1. **How broad is the demonstrated competence?** P3 concerns breadth, integration, reliability, and performance.
+2. **What does that competence establish?** P4 challenges the neutrality of economic task thresholds, while P5 challenges the move from functional roles to subject-involving mental properties.
+
+## Route 2: Consciousness-inclusive general intelligence
+
+```mermaid
+flowchart TD
+    C["Subargument C<br/>Intrinsic perspective"] --> P6["P6<br/>Rich intelligence requires subjectivity"]
+    P6 --> P7["P7<br/>A trajectory requires target-relevant evidence"]
+
+    P8["P8<br/>Demonstrated functional gains"] --> P9["P9<br/>A nonconscious account predicts the gains"]
+    E["Subargument E<br/>Externalized cognition"] --> P9
+
+    D["Subargument D<br/>Consciousness-pathway argument"] --> P7
+    D --> P10["P10<br/>No validated bridge or marker"]
+    P10 --> P11["P11<br/>Emergence alone does not supply a bridge"]
+
+    P7 --> IC2["Intermediate Conclusion 2<br/>No evidence-backed path to consciousness"]
     P9 --> IC2
     P11 --> IC2
-
-    IC1 --> FC[["Final Conclusion: functional progress may be established; consciousness-inclusive AGI remains unestablished"]]
-    IC2 --> FC
 ```
+
+This branch does not attempt to prove that artificial consciousness is impossible. It asks whether the dimensions improved by current LLM development are known to produce or reliably track phenomenal consciousness. P7 states the evidential requirement, P9 supplies the nonconscious alternative explanation, and P10–P11 identify the currently missing bridge.
+
+## Dependency index
+
+| Supporting material | Directly supports | Role in the argument |
+|---|---|---|
+| **Subargument A: Task benchmarks** | **P4** | Shows why economic task thresholds are not neutral measures of richer intelligence. |
+| **Subargument B: Cognitive attribution** | **P5** | Blocks an unsupported move from thin functional descriptions to thick mental properties. |
+| **Subargument C: Rich intelligence and consciousness** | **P6** | Explains why the richer conception includes a subjective perspective. |
+| **Subargument D: Consciousness pathway** | **P7, P10, P11** | States what a pathway to consciousness would require and why performance or emergence alone does not supply it. |
+| **Subargument E: Externalized cognition** | **P9** | Supplies a nonconscious explanation for increasing linguistic and symbolic sophistication. |
+| **P3 + P4 + P5** | **Intermediate Conclusion 1** | Establishes the scope and limits of the functional route. |
+| **P6 + P7 + P8 + P9 + P10 + P11** | **Intermediate Conclusion 2** | Establishes the present evidential limits of the consciousness-inclusive route. |
+| **Intermediate Conclusions 1 and 2** | **Final Conclusion** | Combines the results of the two conceptions examined. |
 
 # IV. Subargument A: The Task-Benchmark Problem
 
