@@ -6,29 +6,23 @@ Working video script: [AI Is Not Consciousness.md](AI%20Is%20Not%20Consciousness
 
 Production companion: [Clip Guide.md](Clip%20Guide.md)
 
-This document states the argument in its academic form. It is a logical skeleton for later research and writing, not a draft of the spoken video. The main argument appears first; subordinate arguments then support its central premises.
+This document states the argument in its academic form: a logical skeleton for later research and writing. The spoken draft lives in the linked video script. The main argument appears first; subordinate arguments then support its central premises.
 
 ## Thesis and scope
 
-This argument examines two conceptions used in claims that LLMs possess or are approaching general intelligence. A functional conception is exhausted by sufficiently broad and integrated functional competence. A consciousness-inclusive conception additionally requires an intrinsic subjective perspective. LLM development may qualify as progress under the functional definition, but functional success does not independently establish consciousness or richer humanlike understanding. Under the consciousness-inclusive definition, current evidence of increased performance does not establish that LLMs are approaching the required subjective perspective.
+Claims that LLMs are approaching general intelligence depend on what "general intelligence" means. The term carries two common meanings, and each sets a different standard for the evidence.
 
-The conclusion is epistemic and conceptual. It concerns what current definitions and evidence establish. It does not claim that artificial consciousness is metaphysically impossible, that computation could never participate in consciousness, or that these two conceptions exhaust every possible theory of intelligence. Other accounts may additionally emphasize embodiment, autonomy, persistent agency, social participation, or causal interaction with the world.
+On the first, *functional* conception, intelligence is a matter of what a system can do. A system counts as more generally intelligent as it succeeds across a wider range of tasks: writing, coding, planning, answering questions, using tools. By this standard, LLMs have plainly become more capable, and it is reasonable to describe them as making progress toward general intelligence.
 
-## Thesis and scope: accessible alternative
+Two features of this evidence limit what it shows. First, much of the work used to measure AI was standardized long before any model touched it: broken into procedures and scaffolded by tools, databases, interfaces, and institutional rules. A system can therefore succeed at a task while much of the relevant judgment lives in the surrounding institution. Second, the words used to describe AI output — *reasoning*, *judgment*, *understanding* — name what a system accomplishes, and they leave open a further question: whether meanings and reasons are present to the system, within a point of view it has.
 
-Before we can decide whether LLMs are becoming generally intelligent, we have to decide what we mean by general intelligence. People often use the term in two different ways, and the evidence looks different depending on which meaning they choose.
+The second, *consciousness-inclusive* conception makes that point of view part of the definition. On this account, an intelligent system has subjective experience: there is something it is like to be that system, and meanings, reasons, and alternatives are present to it.
 
-In the first sense, intelligence means being able to perform a broad range of tasks. A system appears more generally intelligent as it becomes capable of writing, coding, planning, answering questions, using tools, and succeeding across more areas of work. In this functional sense, LLMs have clearly become more capable, and they may reasonably be described as progressing toward general intelligence.
+This richer target raises the evidential bar. More computation, training data, memory, context, and tool use explain why a system behaves more capably. Showing that the system is approaching experience would require something further — a validated connection between those improvements and subjective experience, or a reliable way to tell a conscious system apart from a nonconscious one producing the same behavior. Currently we have neither.
 
-That conclusion is important, but it is also limited. Performing more tasks does not by itself show that a system understands those tasks in the way a conscious person does. Many of the tasks used to measure AI have already been broken into standardized procedures and supported by tools, databases, interfaces, and institutional rules. We also describe AI outputs with words such as *reasoning*, *judgment*, and *understanding*. Those words can accurately describe what a system accomplishes without proving that meanings or reasons are present to the system from its own point of view.
+The central claim is therefore limited but significant. Current evidence establishes increasingly broad functional competence, which may count as progress under the functional definition. Under the consciousness-inclusive definition, the same evidence leaves the richer target unaddressed, because the required connection between functional improvement and subjective experience has yet to be shown.
 
-The second sense of general intelligence includes this point of view. On this account, an intelligent system does not merely produce the outward results of thought. It also has subjective experience. There is something it is like to be that system, and meanings, reasons, alternatives, or experiences are present to it.
-
-If this richer form of intelligence is the target, then better performance is not enough to show that LLMs are approaching it. More computation, training, memory, context, tools, and planning can explain why a system produces more capable behavior. These improvements do not currently explain why the system would begin to have subjective experience. They also do not provide a reliable way to distinguish a conscious system from a nonconscious system that has become better at producing intelligent behavior.
-
-The central conclusion is therefore limited but significant. Current evidence establishes increasingly broad functional competence. Under a functional definition, this may count as progress toward general intelligence. Under a consciousness-inclusive definition, the same evidence does not yet establish progress toward the richer target because no validated connection between functional improvement and subjective experience has been demonstrated.
-
-This argument does not claim that artificial consciousness is impossible. It does not claim that computation could never contribute to consciousness, and it does not assume that these are the only two possible theories of intelligence. Some theories may also require embodiment, autonomy, persistent agency, social participation, or direct interaction with the world. The narrower claim is that we should not confuse evidence that a system can do more with evidence that there is now something it is like to be that system.
+The conclusion is epistemic: it concerns what current definitions and evidence establish. Artificial consciousness may be possible, computation may turn out to participate in consciousness, and other theories of intelligence — built on embodiment, autonomy, persistent agency, or social participation — remain open. The claim defended here is narrow: evidence that a system can do more is one thing, evidence that there is something it is like to be that system is another, and current results supply only the first.
 
 # I. Definitions
 
@@ -99,7 +93,7 @@ The argument does not deny that other nonfunctionalist accounts may propose diff
 
 The original single diagram compressed the complete argument into one image. The following roadmap separates the two branches so that each supporting relationship can be followed independently.
 
-**How to read the maps:** An arrow means *provides support for*. It does not mean that the source premise or subargument is sufficient by itself to prove the destination.
+**How to read the maps:** An arrow means *provides support for*, and most conclusions rest on several arrows working together.
 
 ## The whole argument at a glance
 
@@ -190,7 +184,7 @@ flowchart TD
     P11 --> IC2
 ```
 
-This branch does not attempt to prove that artificial consciousness is impossible. It asks whether the dimensions improved by current LLM development are known to produce or reliably track phenomenal consciousness. P7 states the evidential requirement, P9 supplies the nonconscious alternative explanation, and P10 and P11 identify the currently missing bridge.
+This branch asks a narrow question: are the dimensions improved by current LLM development known to produce or reliably track phenomenal consciousness? P7 states the evidential requirement, P9 supplies the nonconscious alternative explanation, and P10 and P11 identify the currently missing bridge. The possibility of artificial consciousness stays open throughout.
 
 ## Dependency index
 
@@ -211,7 +205,7 @@ This subargument supports P4.
 
 **A1.** A benchmark is evidence of a general capacity only to the extent that success on it depends on that capacity rather than on features specific to the benchmark or its environment.
 
-**A2.** Inventories of economically valuable human tasks are not neutral samples of human intelligence. They are products of historically organized systems of labor.
+**A2.** Inventories of economically valuable human tasks are products of historically organized systems of labor rather than neutral samples of human intelligence.
 
 **A3.** Many forms of modern labor have been decomposed, standardized, proceduralized, measured, and supported by institutional systems in order to reduce reliance on individual judgment and make workers more interchangeable.
 
@@ -225,7 +219,7 @@ This subargument supports P4.
 
 The academic issue is **benchmark endogeneity** or **construct validity**, rather than strict circularity. The economy has helped create the standardized tasks on which the system is evaluated. The benchmark is therefore partly shaped by the same historical process that makes machine performance possible.
 
-This argument does not require the claim that every occupation has been deskilled. It requires only that task-based thresholds are significantly influenced by how human institutions have organized the tasks being measured.
+The argument requires only a modest claim: task-based thresholds are significantly influenced by how human institutions have organized the tasks being measured. Whether every occupation has been deskilled is a separate question, and the argument takes no position on it.
 
 This empirical subargument will require evidence from the history and sociology of labor, including scientific management, deskilling, workflow standardization, modularization, institutional cognition, and the design of replaceable occupational roles.
 
@@ -254,9 +248,9 @@ This subargument supports P5.
 
 **Conclusion B.** It can be legitimate to describe an LLM as reasoning, judging, or understanding in a functional sense while still lacking sufficient evidence that it reasons, judges, or understands in the same intrinsic sense as a conscious human subject.
 
-Observer-relative attribution does not automatically make an attribution false. Money, laws, offices, and games have observer-relative properties that remain real. The problem is that ambiguous cognitive language can conceal an unsupported inference from **functional resemblance** to **intrinsic mentality**.
+Observer-relative attributions can be perfectly real: money, laws, offices, and games all have observer-relative properties. The risk is ambiguity, because shared cognitive vocabulary can conceal an unsupported inference from **functional resemblance** to **intrinsic mentality**.
 
-A functionalist may respond that the relevant functional organization is sufficient for the mental property. That response identifies the precise theoretical disagreement; it does not settle it. Functionalism must be independently defended rather than assumed through the vocabulary used to describe the system.
+A functionalist may respond that the relevant functional organization is sufficient for the mental property. That response identifies the precise theoretical disagreement, and settling it requires functionalism to be independently defended rather than assumed through the vocabulary used to describe the system.
 
 # VI. Subargument C: Why the Richer Conception Involves Consciousness
 
@@ -294,9 +288,9 @@ This subargument supports P7 through P11.
 
 **Conclusion D.** Increased performance through current LLM development does not currently establish either consciousness or an evidence-backed trajectory toward consciousness.
 
-This argument does not require a complete solution to the philosophical problem of consciousness. Humans sometimes produce or recognize phenomena before possessing complete theories of them. The narrower requirement is that a claimed technological pathway must provide some evidence connecting the technology to the property.
+The requirement here is modest: a claimed technological pathway must provide some evidence connecting the technology to the property. Humans sometimes produce or recognize phenomena before possessing complete theories of them, so a complete solution to the philosophical problem of consciousness is unnecessary.
 
-The bullet-train analogy expresses this point but does not prove it: increasing performance along one dimension does not establish progress toward a categorically different capacity unless the two dimensions are known to be connected. A train moving faster is not thereby approaching flight; a model solving harder problems is not thereby shown to be approaching experience.
+The bullet-train analogy illustrates the point: progress along one dimension counts toward a categorically different capacity only when the two dimensions are known to be connected. A train moving faster is not thereby approaching flight, and a model solving harder problems is not thereby shown to be approaching experience.
 
 # VIII. Subargument E: The Externalization Argument
 
@@ -314,7 +308,7 @@ This subargument supports P9 by supplying a nonconscious explanation for sophist
 
 **Conclusion E.** Linguistic and symbolic sophistication cannot, by itself, discriminate between genuine subjectivity and increasingly powerful functional modeling of the products of subjectivity.
 
-This argument does not prove that LLMs are nonconscious. It establishes **underdetermination**: their outputs can be explained without assuming consciousness, so those outputs alone cannot prove consciousness.
+This argument establishes **underdetermination**: LLM outputs can be explained without assuming consciousness, so those outputs alone cannot prove consciousness. The question of whether LLMs are in fact conscious stays open.
 
 ## The four-layer form of the externalization argument
 
@@ -336,7 +330,7 @@ graph TD
     M2 --> L4
 ```
 
-This framework locates the explanatory role of consciousness without claiming to explain how consciousness arises. It also does not prove that artificial consciousness is impossible. Such a conclusion would require an additional premise showing that consciousness necessarily depends on biology, autonomous self-maintenance, embodiment, or another property absent from computational systems.
+This framework locates the explanatory role of consciousness while leaving open how consciousness arises. Proving artificial consciousness impossible would require an additional premise showing that consciousness necessarily depends on biology, autonomous self-maintenance, embodiment, or another property absent from computational systems.
 
 # IX. Logical Status of the Complete Argument
 
@@ -352,7 +346,7 @@ The skeleton has a mixed logical form. Its master structure is a scoped conceptu
 8. Subargument D is evidential and partly abductive.
 9. Subargument E supplies an alternative explanation and supports underdetermination.
 
-The argument establishes conceptual underdetermination and epistemic insufficiency. It does not establish the permanent impossibility of artificial consciousness.
+The argument establishes conceptual underdetermination and epistemic insufficiency; the permanent impossibility of artificial consciousness lies beyond its scope.
 
 The master inference can be deductively organized, but the soundness of the complete case depends on the quality of its conceptual, historical, empirical, and abductive support. Later research must therefore support several different kinds of premises:
 
@@ -367,15 +361,15 @@ The master inference can be deductively organized, but the soundness of the comp
 
 AI companies, investors, and public figures may have incentives to describe ambiguous functional advances in the most historically significant and anthropomorphic terms available. This can help explain why stronger interpretations are promoted.
 
-Those incentives do not establish that the interpretations are false. Using motives as proof would commit a genetic fallacy. The institutional argument should remain separate:
+Using motives as proof would commit a genetic fallacy: incentives explain why an interpretation is promoted while leaving its truth undecided. The institutional argument should therefore remain separate:
 
 - **Logical claim:** The offered evidence does not justify the strongest conclusions.
 - **Sociological claim:** Institutions may have incentives to market functional gains as general intelligence, understanding, or consciousness.
 
 ## Permanent metaphysical impossibility
 
-The argument does not claim that computation could never participate in consciousness or that no artificial system could ever become conscious. Such claims require further metaphysical premises beyond the present case.
+Claims that computation could never participate in consciousness, or that no artificial system could ever become conscious, require further metaphysical premises and stay outside the present case.
 
 ## What the argument concedes to functionalism
 
-If someone explicitly defines general intelligence as broad functional competence, this argument does not show that the system fails to qualify by that definition. It establishes the narrower scope of the conclusion: satisfying a functional definition does not independently establish consciousness, intrinsic understanding, or equivalence with human mentality.
+If someone explicitly defines general intelligence as broad functional competence, a system may genuinely qualify by that definition, and this argument leaves that result standing. The point is one of scope: satisfying a functional definition establishes functional competence, and consciousness, intrinsic understanding, and equivalence with human mentality each require further evidence.
